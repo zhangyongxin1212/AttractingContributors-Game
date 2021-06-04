@@ -16,7 +16,9 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project
-Goal : I want contributors to help me list some singers.
+I want to know the music you like. 
+Please tell me your favorite music.
 
-# List of Singer
-* REIS from DADARAY
+# List of Music
+1. 能動的三分間 / Tokyo Incidents
+2. 白虎野  /  平沢進
