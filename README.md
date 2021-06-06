@@ -20,7 +20,13 @@ I want to know the name of your favorite Doraemon's Secret Tools. I'm looking fo
 
 # List of Doraemon's Secret Tools name
 1. What-if Phone Booth (moshimo box)
-2. Almighty pass 
-3. Toriyose-bag
-4. 
+2. Toriyose-bag
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
 
