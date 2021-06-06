@@ -31,3 +31,4 @@ Goal - I want to know your favorite Animes.
 6. Ore ga iru (Yahari Oreno Seishun Rabukome ha machigatte iru)
 7. Onichan dakedo aisae areba kankei naiyone
 8. NARUTO
+9. Dennokoiru
