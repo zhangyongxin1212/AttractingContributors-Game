@@ -28,3 +28,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. Haikyu!!
 6. Odd Taxi
 7. Oregairu (Yahari Oreno Seishun Rabukome ha machigatte iru)
+8. Non non biyori
