@@ -16,10 +16,10 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My project
-I want to know the name of your favorite Pokémon. I'm looking for collaborators.
+I want to know the name of your favorite Doraemon's Secret Tools. I'm looking for collaborators.
 
-# List of Pokémon name
-1. Mareanie(ヒドイデ)
-2.
+# List of Doraemon's Secret Tools name
+1. What-if Phone Booth (moshimo box)
+2. Almighty pass 
 3.
 
