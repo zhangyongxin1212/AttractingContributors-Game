@@ -32,3 +32,4 @@ Goal - I want to know your favorite Animes.
 7. Onichan dakedo aisae areba kankei naiyone
 8. NARUTO
 9. Dennokoiru
+10. CLANNAD
