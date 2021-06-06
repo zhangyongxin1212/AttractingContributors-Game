@@ -26,3 +26,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3. Haiyore Nyaruko san
 4. angel beats!
 5. Haikyu!!
+6. Odd Taxi
