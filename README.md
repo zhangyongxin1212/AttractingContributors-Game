@@ -23,4 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # My Project(Anime-Collection)
 Goal - I want to know your favorite Animes.
 # List of Anime
-1. 
+1. Anohi Mita Hana no Namae wo Bokutati ha mada shiranai
