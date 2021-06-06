@@ -20,6 +20,5 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
-1. Haiyore Nyaruko san
-2. Nagi no Asu kara (A Lull in the Sea)
+# List of Anime
+- angel beats!
