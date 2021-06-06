@@ -20,4 +20,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# My Project(Anime-Collection)
+Goal - I want to know your favorite Animes.
+# List of Anime
+1. 
