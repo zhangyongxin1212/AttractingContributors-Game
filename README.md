@@ -24,3 +24,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. Nagi no Asu kara (A Lull in the Sea)
 2. Kerorogunso
 3. Haiyore Nyaruko san
+4. angel beats!
