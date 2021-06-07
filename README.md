@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. Odd Taxi
 7. Oregairu (Yahari Oreno Seishun Rabukome ha machigatte iru)
 8. Non non biyori
+9. PSYCHO-PASS
