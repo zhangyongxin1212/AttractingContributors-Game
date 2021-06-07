@@ -19,3 +19,4 @@ To complete the assignment, please do the following:
 Please write your favorite sports.
 
 # List of Hobby
+* swimming
