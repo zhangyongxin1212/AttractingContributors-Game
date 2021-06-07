@@ -28,3 +28,4 @@ I want to know the name of your favorite Doraemon's Secret Tools. I'm looking fo
 7. Oregairu (Yahari Oreno Seishun Rabukome ha machigatte iru)
 8. Non non biyori
 9. PSYCHO-PASS
+10. one piece
