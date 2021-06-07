@@ -21,9 +21,9 @@ I want to know the name of your favorite Doraemon's Secret Tools. I'm looking fo
 # List of Doraemon's Secret Tools name
 1. What-if Phone Booth (moshimo box)
 2. Toriyose-bag
-3.dokodemodoa
-4.
-5.
+3. dokodemodoa
+4. Torinuke-hupu
+5. Anki-pan
 6.
 7.
 8.
