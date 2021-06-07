@@ -16,7 +16,7 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My project (*Smart Phone App*)
-Goal - I want contributors to help me list some favorite sweets.  
-Example - 1.FavApp
+Goal - I want contributors to help me list favorite smartphone app.  
+Example - 1. FavApp
 
 # List of App
