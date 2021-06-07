@@ -15,10 +15,8 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+# My project
+I want to know the name of your favorite Doraemon's Secret Tools. I'm looking for collaborators.
 
 # List of Anime
 1. Nagi no Asu kara (A Lull in the Sea)
