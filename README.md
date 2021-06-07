@@ -17,6 +17,6 @@ To complete the assignment, please do the following:
 
 # My project (*Smart Phone App*)
 Goal - I want contributors to help me list favorite smartphone app.  
-Example - 1. FavApp
+Example - * FavApp
 
 # List of App
