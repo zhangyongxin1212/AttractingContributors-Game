@@ -22,3 +22,4 @@ Please write your favorite sports.
 * swimming
 * tennis
 * basketball
+* table tennis
