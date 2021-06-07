@@ -18,14 +18,13 @@ To complete the assignment, please do the following:
 # My project
 I want to know the name of your favorite Doraemon's Secret Tools. I'm looking for collaborators.
 
-# List of Doraemon's Secret Tools name
-1. What-if Phone Booth (moshimo box)
-2. Toriyose-bag
-3. dokodemodoa
-4. Torinuke-hupu
-5. Anki-pan
-6.
-7.
-8.
-9.
-10.
+# List of Anime
+1. Nagi no Asu kara (A Lull in the Sea)
+2. Kerorogunso
+3. Haiyore Nyaruko san
+4. angel beats!
+5. Haikyu!!
+6. Odd Taxi
+7. Oregairu (Yahari Oreno Seishun Rabukome ha machigatte iru)
+8. Non non biyori
+9. PSYCHO-PASS
