@@ -24,6 +24,7 @@ Please tell me your favorite music.
 2. 夢見る機械  /  平沢進
 3. Shake&Shake / sumika
 4. The Phoenix  /  Fall Out Boy
-5. ドライフラワー / 優里
-6. 踊 / Ado
-7. はじまりの合図 / 神宿
+5. Chandelier / Sia
+6. ドライフラワー / 優里
+7. 踊 / Ado
+8. はじまりの合図 / 神宿
