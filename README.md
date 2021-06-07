@@ -22,3 +22,4 @@ Gaol - I want to know your favorite Game so please let me know!!
 # List of Game
 1.CS go
 2.LOL
+3.Nier:Automata
