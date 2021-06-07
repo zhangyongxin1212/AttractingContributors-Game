@@ -15,18 +15,17 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My project
+I want to know the name of your favorite Doraemon's Secret Tools. I'm looking for collaborators.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Anime
-1. Nagi no Asu kara (A Lull in the Sea)
-2. Kerorogunso
-3. Haiyore Nyaruko san
-4. angel beats!
-5. Haikyu!!
-6. Odd Taxi
-7. Oregairu (Yahari Oreno Seishun Rabukome ha machigatte iru)
-8. Non non biyori
-9. 
+# List of Doraemon's Secret Tools name
+1. What-if Phone Booth (moshimo box)
+2. Toriyose-bag
+3. dokodemodoa
+4. Torinuke-hupu
+5. Anki-pan
+6.
+7.
+8.
+9.
+10.
