@@ -22,7 +22,7 @@ I want to know the name of your favorite Doraemon's Secret Tools. I'm looking fo
 1. What-if Phone Booth (moshimo box)
 2. Toriyose-bag
 3. Torinuke-hupu
-4.
+4. Anki-pan
 5.
 6.
 7.
