@@ -25,3 +25,5 @@ Please tell me your favorite music.
 3. Shake&Shake / sumika
 4. The Phoenix  /  Fall Out Boy
 5. ドライフラワー / 優里
+6. 踊 / Ado
+7. はじまりの合図 / 神宿
