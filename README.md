@@ -27,3 +27,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 4. tegami
 5. The little prince
 6. Le Comte de Monte-Cristo
+7. Harry Potter
