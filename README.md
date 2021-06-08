@@ -24,4 +24,5 @@ Gaol - I want to know your favorite Game so please let me know!!
 2.LOL
 3.Nier:Automata
 4.Smash Bros.
+5.Tetris
 
