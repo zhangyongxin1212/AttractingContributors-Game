@@ -22,4 +22,8 @@ Gaol - I want to know your favorite Game so please let me know!!
 # List of Game
 1.CS go
 2.LOL
-3. MahjongSoul
+3.Nier:Automata
+4.Smash Bros.
+5.Tetris
+6. MahjongSoul
+
