@@ -24,7 +24,7 @@ Please tell me your favorite number
 # List of number
 - 8
 - 1000000007
--27
+- 27
 - 137438691328
 - 11
 - 6
