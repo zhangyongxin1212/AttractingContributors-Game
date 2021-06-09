@@ -23,4 +23,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Please tell me your favorite number
 # List of number
 - 8
+- 255
 - 21
