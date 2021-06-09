@@ -24,3 +24,8 @@ Please tell me your favorite number
 # List of number
 - 8
 - 137438691328
+- 11
+- 6
+- 918
+- 255
+- 21
