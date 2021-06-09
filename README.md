@@ -31,4 +31,5 @@ Please tell me your favorite number
 - 918
 - 255
 - 21
+- 24
 - 15
