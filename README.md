@@ -20,7 +20,11 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Text Editor
-- Hidemaru Editor
-- VS Code
-- VIM
+# List of Game
+1.CS go
+2.LOL
+3.Nier:Automata
+4.Smash Bros.
+5.Tetris
+6. MahjongSoul
+7. Demon's Souls
