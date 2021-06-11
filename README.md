@@ -26,4 +26,4 @@ Gaol - I want to know your favorite Game so please let me know!!
 4.Smash Bros.
 5.Tetris
 6. MahjongSoul
-
+7.Final Fantasy
