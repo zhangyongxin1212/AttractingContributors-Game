@@ -1,4 +1,4 @@
-# Attracting Contributors
+# Attracting Contributors-number-
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
@@ -18,11 +18,19 @@ To complete the assignment, please do the following:
 # My Project
 Gaol - I want to know your favorite Game so please let me know!!
 
-# List of Game
-1.CS go
-2.LOL
-3.Nier:Automata
-4.Smash Bros.
-5.Tetris
-6. MahjongSoul
-7. Final Fantasy
+Please tell me your favorite number
+# List of number
+- 8
+- 1000000007
+- 27
+- 137438691328
+- 11
+- 6
+- 918
+- 255
+- 21
+- 24
+- 66
+- 15
+- 14
+-334
