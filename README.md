@@ -23,4 +23,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of favorite song
 1. Closer(the chainsmokers)
 2. DAYBREAK FRONTLINE
-3. Galantis - Peanut Butter Jelly
+3. ひこうき雲
+4. Galantis - Peanut Butter Jelly
