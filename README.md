@@ -24,3 +24,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. Closer(the chainsmokers)
 2. DAYBREAK FRONTLINE
 3. Love
+4. ひこうき雲
+5. Galantis - Peanut Butter Jelly
