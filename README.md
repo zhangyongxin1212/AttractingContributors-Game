@@ -20,21 +20,13 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Pocket Monster
-・Gardevoir   
-・Rayquaza  
-・Charizard  
-・Starmie  
-・Hoothoot  
-・Scizor  
-・Gardevoir  
-・Milotic  
-・Rayquaza  
-・Rayquaza  
-・Rayquaza   
-・Jirachi（ジラーチ）  
-・Torterra  
-・Giratina  
-・Marshadow  
 
+# List of Game
+1.CS go
+2.LOL
+3.Nier:Automata
+4.Smash Bros.
+5.Tetris
+6. MahjongSoul
+7.Dragon Quest
 
