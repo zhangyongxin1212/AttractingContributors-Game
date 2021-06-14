@@ -27,4 +27,5 @@ Gaol - I want to know your favorite Game so please let me know!!
 5.Tetris
 6. MahjongSoul
 7. mario
+8.Valorant
 
