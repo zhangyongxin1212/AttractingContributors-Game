@@ -18,7 +18,6 @@ To complete the assignment, please do the following:
 # My Project
 Gaol - I want to know your favorite Game so please let me know!!
 
-
 # List of Game
 1.CS go
 2.LOL
@@ -26,4 +25,10 @@ Gaol - I want to know your favorite Game so please let me know!!
 4.Smash Bros.
 5.Tetris
 6. MahjongSoul
-7.Puyopuyo
+7. VALORANT
+8.Valorant
+9. mario
+10.Dragon Quest
+11. Tower of Druaga
+12.Puyopuyo
+
