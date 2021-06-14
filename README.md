@@ -23,9 +23,4 @@ As part of the Software Engineering Class, we would like to simulate how Open So
  * Hyacinth
  * good!
  * Nice 2 meet u
-
-
-
-
-
-
+ * Thanks!
