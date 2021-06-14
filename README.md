@@ -28,3 +28,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. Galantis - Peanut Butter Jelly
 6. Better That We Break
 7. Kanden - Kenshi Yonezu
+8. rose
