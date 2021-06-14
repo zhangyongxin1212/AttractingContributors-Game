@@ -10,3 +10,4 @@ I want to know which programming languege is popular in NAIST, so please tell me
 - Flutter
 - python
 - Java
+- verilog
