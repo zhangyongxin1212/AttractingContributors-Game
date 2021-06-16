@@ -22,12 +22,15 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 
 # List of songs
-1.DAYBREAK FRONTLINE(Orangestar)
-2.Sanctuary(Roselia)
-3.KAISEI
-4.supernova(ELLEGARDEN)
-5.Everything in Its Right Place (Radiohead)
-6.Wekapipo(SOUL'd OUT)
-7. The Phoenix(Fall Out Boy)
-8.Closer(The Chainsmokers)
-9. if i were a boy (Beyonce)
+- 1.DAYBREAK FRONTLINE(Orangestar)
+- 2.Sanctuary(Roselia)
+- 3.KAISEI
+- 4.supernova(ELLEGARDEN)
+- 5.Everything in Its Right Place (Radiohead)
+- 6.Wekapipo(SOUL'd OUT)
+- 7. The Phoenix(Fall Out Boy)
+- 8.Closer(The Chainsmokers)
+- 9.Summer(Joe Hisaishi)
+- 10Can't Stop(Red Hot Chili Peppers)
+- 11 if i were a boy (Beyonce)
+
